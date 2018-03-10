@@ -3,7 +3,7 @@ spring:
     active: cloud
 cloud:
   sample:
-    msg: hello
+    msg: hello man
 
 ribbon:
   eureka:
