@@ -3,7 +3,7 @@ spring:
     active: cloud
 cloud:
   sample:
-    msg: 你好
+    msg: 你好我更新了
 
 ribbon:
   eureka:
